@@ -6,10 +6,7 @@ plugins {
 
 group = 'academy.digitallab.store'
 version = '0.0.1-SNAPSHOT'
-//sourceCompatibility = '11'
-apply plugin: 'java'
-sourceCompatibility = 11
-targetCompatibility = 11
+sourceCompatibility = '11'
 
 repositories {
 	mavenCentral()
